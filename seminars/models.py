@@ -2,6 +2,7 @@ from django.db import models
 import uuid 
 from datetime import date
 from django.core.validators import MinValueValidator
+from django.db.models import F
 
 class Subjects(models.TextChoices):
     ENGLISH =  'English'
@@ -46,6 +47,9 @@ class Student(models.Model):
     age = models.PositiveSmallIntegerField(validators=[MinValueValidator(18)])
     interested_in = models.CharField(max_length=100,blank=False)
     email = models.EmailField(blank=False)
+    awd = models.GeneratedField(
+        expression=F('age') * 2,output_field=models.DecimalField(max_digits=4,decimal_places=2),
+        db_persist=True)
 
 
 # creating the coruse model
