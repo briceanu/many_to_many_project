@@ -1,0 +1,301 @@
+    teachers
+
+
+"f18900c4-aa26-47f0-ad6e-94471411a67d"
+"3682bc25-039c-4809-9eae-b011d7c16c37"
+"376570ab-3355-4951-91d6-8262e07877f6"
+"4d936d23-63d7-44bc-8218-0afa1eac2e19"
+"6d6bf362-2de1-47a2-9b79-b4773d8d9612"
+"28bc217e-5edd-48b0-afc4-d7d945325dee"
+
+
+
+
+
+    {
+        "teacher_id": "f18900c4-aa26-47f0-ad6e-94471411a67d",
+        "name": "gianina",
+        "beginning_teaching": "2014-08-20",
+        "teaching_subject_1": "Geography",
+        "teaching_subject_2": "Physics",
+        "teaching_subject_3": "",
+        "years_of_experience": 10
+    },
+    {
+        "teacher_id": "3682bc25-039c-4809-9eae-b011d7c16c37",
+        "name": "emilian",
+        "beginning_teaching": "2019-10-01",
+        "teaching_subject_1": "French",
+        "teaching_subject_2": "English",
+        "teaching_subject_3": "Mathematics",
+        "years_of_experience": 5
+    },
+    {
+        "teacher_id": "376570ab-3355-4951-91d6-8262e07877f6",
+        "name": "camelia",
+        "beginning_teaching": "2009-02-20",
+        "teaching_subject_1": "Chemistry",
+        "teaching_subject_2": "Physics",
+        "teaching_subject_3": "Mathematics",
+        "years_of_experience": 15
+    },
+    {
+        "teacher_id": "4d936d23-63d7-44bc-8218-0afa1eac2e19",
+        "name": "mariana",
+        "beginning_teaching": "2021-07-05",
+        "teaching_subject_1": "History",
+        "teaching_subject_2": "Geography",
+        "teaching_subject_3": "French",
+        "years_of_experience": 3
+    },
+    {
+        "teacher_id": "6d6bf362-2de1-47a2-9b79-b4773d8d9612",
+        "name": "dorel",
+        "beginning_teaching": "2017-02-17",
+        "teaching_subject_1": "Physics",
+        "teaching_subject_2": "Mathematics",
+        "teaching_subject_3": "Chemistry",
+        "years_of_experience": 7
+    },
+    {
+        "teacher_id": "28bc217e-5edd-48b0-afc4-d7d945325dee",
+        "name": "adriana",
+        "beginning_teaching": "2015-09-15",
+        "teaching_subject_1": "Geography",
+        "teaching_subject_2": "History",
+        "teaching_subject_3": "Chemistry",
+        "years_of_experience": 9
+    }
+]
+        
+
+
+        students
+
+"13c494e4-1fa7-465b-bc3f-342e187553e0"
+"d8688510-12f1-4d98-8509-095c62b2770e"
+"d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8"
+"a6353edc-03b5-417e-a8e4-dd664de390fb"
+"85921fcd-55e9-4fb2-9bf9-e08973d84758"
+"d7af32d7-ca86-4422-a059-af5c34e5b807"
+"b13cc72b-edcd-409a-9cec-b7053ab82182"
+"91c2a474-c392-462b-b882-cb9223ef5e96"
+"bcc62b70-65d9-4520-add5-199ada587ce1"
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "student_id": "13c494e4-1fa7-465b-bc3f-342e187553e0",
+        "name": "marian popescu",
+        "age": 31,
+        "interested_in": "Geography and French",
+        "email": "marianpopescu@gmail.com"
+    },
+    {
+        "student_id": "d8688510-12f1-4d98-8509-095c62b2770e",
+        "name": "maria despecu",
+        "age": 24,
+        "interested_in": "Chemistry and physics",
+        "email": "mariadespecu@gmail.com"
+    },
+    {
+        "student_id": "d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8",
+        "name": "octavian datcu",
+        "age": 43,
+        "interested_in": "French and English",
+        "email": "octaviandatcu@gmail.com"
+    },
+    {
+        "student_id": "a6353edc-03b5-417e-a8e4-dd664de390fb",
+        "name": "adriana mosescu",
+        "age": 22,
+        "interested_in": "geography and history",
+        "email": "adrianamosescu@gmail.com"
+    },
+    {
+        "student_id": "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+        "name": "baltatescu gheorghe",
+        "age": 18,
+        "interested_in": "chemistry history",
+        "email": "baltatescugheorghe@gmail.com"
+    },
+    {
+        "student_id": "d7af32d7-ca86-4422-a059-af5c34e5b807",
+        "name": "ignat costica",
+        "age": 26,
+        "interested_in": "chemistry history mathematics",
+        "email": "ignatcostica@gmail.com"
+    },
+    {
+        "student_id": "b13cc72b-edcd-409a-9cec-b7053ab82182",
+        "name": "tede navodaru",
+        "age": 34,
+        "interested_in": "french and physics",
+        "email": "navodarutede@gmail.com"
+    },
+    {
+        "student_id": "91c2a474-c392-462b-b882-cb9223ef5e96",
+        "name": "david florin",
+        "age": 28,
+        "interested_in": "english and history",
+        "email": "davidflorin@gmail.com"
+    },
+    {
+        "student_id": "bcc62b70-65d9-4520-add5-199ada587ce1",
+        "name": "rizea robert",
+        "age": 29,
+        "interested_in": "geogrphy, french and english",
+        "email": "rizearobert@gmail.com"
+    }
+]
+
+
+courses
+
+
+
+
+[
+    {
+        "course_id": "27278a4c-4126-40e0-9482-e8f301f46e2a",
+        "date_time_scheduled": "2024-03-20T18:00:00Z",
+        "duration": "03:00:00",
+        "charge": "20.50",
+        "teachers": [
+            "376570ab-3355-4951-91d6-8262e07877f6",
+            "4d936d23-63d7-44bc-8218-0afa1eac2e19"
+        ],
+        "students": [
+            "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+            "91c2a474-c392-462b-b882-cb9223ef5e96",
+            "a6353edc-03b5-417e-a8e4-dd664de390fb",
+            "b13cc72b-edcd-409a-9cec-b7053ab82182",
+            "d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8",
+            "d7af32d7-ca86-4422-a059-af5c34e5b807",
+            "d8688510-12f1-4d98-8509-095c62b2770e"
+        ]
+    },
+    {
+        "course_id": "3c7bac54-7f6b-4297-a389-a9b90f28775d",
+        "date_time_scheduled": "2024-07-01T20:00:00Z",
+        "duration": "03:00:00",
+        "charge": "50.70",
+        "teachers": [
+            "28bc217e-5edd-48b0-afc4-d7d945325dee",
+            "4d936d23-63d7-44bc-8218-0afa1eac2e19",
+            "6d6bf362-2de1-47a2-9b79-b4773d8d9612"
+        ],
+        "students": [
+            "13c494e4-1fa7-465b-bc3f-342e187553e0",
+            "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+            "a6353edc-03b5-417e-a8e4-dd664de390fb",
+            "d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8",
+            "d7af32d7-ca86-4422-a059-af5c34e5b807",
+            "d8688510-12f1-4d98-8509-095c62b2770e"
+        ]
+    },
+    {
+        "course_id": "00a66037-4b8b-4b81-a287-446b86f2ce27",
+        "date_time_scheduled": "2024-02-20T15:00:00Z",
+        "duration": "01:00:00",
+        "charge": "10.15",
+        "teachers": [
+            "3682bc25-039c-4809-9eae-b011d7c16c37",
+            "4d936d23-63d7-44bc-8218-0afa1eac2e19",
+            "6d6bf362-2de1-47a2-9b79-b4773d8d9612"
+        ],
+        "students": [
+            "13c494e4-1fa7-465b-bc3f-342e187553e0",
+            "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+            "a6353edc-03b5-417e-a8e4-dd664de390fb",
+            "b13cc72b-edcd-409a-9cec-b7053ab82182",
+            "d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8",
+            "d7af32d7-ca86-4422-a059-af5c34e5b807",
+            "d8688510-12f1-4d98-8509-095c62b2770e"
+        ]
+    },
+    {
+        "course_id": "f5b5fb82-adaf-4411-8c71-f2416b0fca51",
+        "date_time_scheduled": "2024-03-15T09:00:00Z",
+        "duration": "05:00:00",
+        "charge": "70.99",
+        "teachers": [
+            "28bc217e-5edd-48b0-afc4-d7d945325dee",
+            "3682bc25-039c-4809-9eae-b011d7c16c37",
+            "f18900c4-aa26-47f0-ad6e-94471411a67d"
+        ],
+        "students": [
+            "13c494e4-1fa7-465b-bc3f-342e187553e0",
+            "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+            "a6353edc-03b5-417e-a8e4-dd664de390fb",
+            "b13cc72b-edcd-409a-9cec-b7053ab82182",
+            "bcc62b70-65d9-4520-add5-199ada587ce1",
+            "d8688510-12f1-4d98-8509-095c62b2770e"
+        ]
+    },
+    {
+        "course_id": "34a45aa5-c7b5-4815-8deb-f95dd345e6c5",
+        "date_time_scheduled": "2024-04-25T14:00:00Z",
+        "duration": "06:00:00",
+        "charge": "100.20",
+        "teachers": [
+            "28bc217e-5edd-48b0-afc4-d7d945325dee",
+            "376570ab-3355-4951-91d6-8262e07877f6",
+            "4d936d23-63d7-44bc-8218-0afa1eac2e19",
+            "6d6bf362-2de1-47a2-9b79-b4773d8d9612"
+        ],
+        "students": [
+            "13c494e4-1fa7-465b-bc3f-342e187553e0",
+            "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+            "91c2a474-c392-462b-b882-cb9223ef5e96",
+            "a6353edc-03b5-417e-a8e4-dd664de390fb",
+            "b13cc72b-edcd-409a-9cec-b7053ab82182",
+            "bcc62b70-65d9-4520-add5-199ada587ce1",
+            "d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8",
+            "d7af32d7-ca86-4422-a059-af5c34e5b807",
+            "d8688510-12f1-4d98-8509-095c62b2770e"
+        ]
+    },
+    {
+        "course_id": "3ac0f939-4ad5-42dd-90e7-2c4fb8403d32",
+        "date_time_scheduled": "2024-06-27T17:30:00Z",
+        "duration": "06:00:00",
+        "charge": "160.20",
+        "teachers": [
+            "28bc217e-5edd-48b0-afc4-d7d945325dee",
+            "3682bc25-039c-4809-9eae-b011d7c16c37",
+            "376570ab-3355-4951-91d6-8262e07877f6",
+            "4d936d23-63d7-44bc-8218-0afa1eac2e19",
+            "6d6bf362-2de1-47a2-9b79-b4773d8d9612",
+            "f18900c4-aa26-47f0-ad6e-94471411a67d"
+        ],
+        "students": [
+            "13c494e4-1fa7-465b-bc3f-342e187553e0",
+            "85921fcd-55e9-4fb2-9bf9-e08973d84758",
+            "91c2a474-c392-462b-b882-cb9223ef5e96",
+            "a6353edc-03b5-417e-a8e4-dd664de390fb",
+            "b13cc72b-edcd-409a-9cec-b7053ab82182",
+            "bcc62b70-65d9-4520-add5-199ada587ce1",
+            "d2ab2184-67d5-4ca5-b518-3ccd0dbf87e8",
+            "d7af32d7-ca86-4422-a059-af5c34e5b807",
+            "d8688510-12f1-4d98-8509-095c62b2770e"
+        ]
+    }
+]
+
+course_ids
+                                                                                                                        
+"27278a4c-4126-40e0-9482-e8f301f46e2a"
+"3c7bac54-7f6b-4297-a389-a9b90f28775d"
+"00a66037-4b8b-4b81-a287-446b86f2ce27"
+"f5b5fb82-adaf-4411-8c71-f2416b0fca51"
+"34a45aa5-c7b5-4815-8deb-f95dd345e6c5"
+"3ac0f939-4ad5-42dd-90e7-2c4fb8403d32"
